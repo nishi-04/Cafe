@@ -1,0 +1,6 @@
+{
+  "name": "Vespera Roasters",
+  "description": "Single-origin specialty coffee roastery featuring an online store, custom grind selection, and a loyalty rewards program to track points and redeem tier discounts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
